@@ -1,9 +1,24 @@
 {
 	"name": "@kenyip/backoff-strategies",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"description": "Javascript Library for Backoff/Retry Strategies with zero dependencies",
 	"main": "./index.js",
 	"scripts": {},
 	"author": "ken.yip",
-	"license": "MIT"
+	"license": "MIT",
+	"directories": {
+		"lib": "lib"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/kenyipp/backoff-strategies.git"
+	},
+	"keywords": [
+		"backoff",
+		"delay"
+	],
+	"bugs": {
+		"url": "https://github.com/kenyipp/backoff-strategies/issues"
+	},
+	"homepage": "https://github.com/kenyipp/backoff-strategies#readme"
 }
