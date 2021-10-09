@@ -1,0 +1,9 @@
+{
+	"name": "@kenyip/backoff-strategies",
+	"version": "1.0.3",
+	"description": "Javascript Library for Backoff/Retry Strategies with zero dependencies",
+	"main": "./index.js",
+	"scripts": {},
+	"author": "ken.yip",
+	"license": "MIT"
+}
